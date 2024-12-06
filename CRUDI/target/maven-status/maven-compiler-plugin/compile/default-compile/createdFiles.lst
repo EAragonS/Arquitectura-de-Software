@@ -1,0 +1,5 @@
+com/example/CRUD/repositorio/PersonaRepositorio.class
+com/example/CRUD/modelo/Persona.class
+com/example/CRUD/controlador/PersonaControlador.class
+com/example/CRUD/CrudApplication.class
+com/example/CRUD/servicio/PersonaServicio.class
